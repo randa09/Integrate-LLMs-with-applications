@@ -38,7 +38,7 @@ This project demonstrates how to integrate **Large Language Models (LLMs)** into
 ---
 
 ## 🛠️ Installation Guide
-Step 1: Clone the repository
+1. Clone the repository
    ```bash
    git clone https://github.com/randa09/Integrate-LLMs-with-applications.git
 2. Change Directory:
